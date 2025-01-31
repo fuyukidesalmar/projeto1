@@ -7,7 +7,7 @@ function textoNaTela(tag, texto) {
    
 }
 
- textoNaTela('h1', 'Clique nos botoes!'); 
+ textoNaTela('h1', 'Aperte nos botoes!'); 
 
 
 
